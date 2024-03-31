@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Gagan Prajapati</h1>
-<h3 align="center">Aspiring AI Engineer | Learning DS & SE to build intelligent solutions #MachineLearning</h3>
+<h3 align="center">Aspiring AI Engineer | Learning DS & ML to build intelligent solutions #MachineLearning</h3>
 <img style="float: right;" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*oUAAR9fnsmpstFhqmZZ55g.gif">
 
 
