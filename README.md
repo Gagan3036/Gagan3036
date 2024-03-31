@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@gagan3036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gagan3036" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/gagan-prajapati-333791218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gagan-prajapati-333791218" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gagan-prajapati-333791218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gagan-prajapati-333791218" height="30" width="40" /></a>
 <a href="https://kaggle.com/gaganajayprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gaganajayprajapati" height="30" width="40" /></a>
 <a href="https://fb.com/gagan prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gagan prajapati" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_gagan_3036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_gagan_3036" height="30" width="40" /></a>
