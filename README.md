@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gagan
 - 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Data Analytics
+- 🌱 I’m currently learning ...Machine Learning 
 - 📫 How to reach me ...gaganprajapati899@gmai.com
 
 <!---
